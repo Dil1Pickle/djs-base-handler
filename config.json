@@ -1,5 +1,5 @@
 {
-    "token": "your bot's token",
+    "token": "ODcyODU5OTU4MjA1NjQ0ODAw.YQwALg.iDR2lKIAY-Pv7_5zrQPIkRytEww",
     "prefix": "!",
-    "mongooseConnectionString": ""
+    "mongooseConnectionString": "mongodb+srv://BetaBot:BetaBot321@cluster0.cqe7w.mongodb.net/BetaBot?retryWrites=true&w=majority"
 }
